@@ -16,7 +16,7 @@
 
 ### 📊 Portfolio
 **[Data Analysis Portfolio](https://github.com/maria-antonia-analytics/data-analysis-portfolio)**: IT operations analytics projects
-- 🚧 Excel: IT support ticket analysis (resolution times, priorities, SLA compliance)
+- ✅ [Excel: IT support ticket analysis](https://github.com/maria-antonia-analytics/data-analysis-portfolio/tree/main/01-excel-it-ticket-analysis): found the team behind 62% of SLA breaches in 1,200 tickets and recommended fixes
 - 🔜 SQL: Incident & user analysis
 - 🔜 Python: System log & performance analysis
 - 🔜 Power BI: IT operations dashboard
