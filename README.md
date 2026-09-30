@@ -17,7 +17,7 @@
 ### 📊 Portfolio
 **[Data Analysis Portfolio](https://github.com/maria-antonia-analytics/data-analysis-portfolio)**: IT operations analytics projects
 - ✅ [Excel: IT support ticket analysis](https://github.com/maria-antonia-analytics/data-analysis-portfolio/tree/main/01-excel-it-ticket-analysis): found the team behind 62% of SLA breaches in 1,200 tickets and recommended fixes
-- 🔜 SQL: Incident & user analysis
+- ✅ [SQL: Incident & user analysis](https://github.com/maria-antonia-analytics/data-analysis-portfolio/tree/main/02-sql-incident-user-analysis): 10 queries with JOINs, CTEs and window functions; found that 10% of users log 37% of incidents
 - 🔜 Python: System log & performance analysis
 - 🔜 Power BI: IT operations dashboard
 
